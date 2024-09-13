@@ -2,7 +2,7 @@
   "name": "frontend_task_gribkov",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vlad1m1r1337.github.io/frontend-task/",
+  "homepage": "https://vlad1m1r1337.github.io/Task/",
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
     "@reduxjs/toolkit": "^2.2.3",
