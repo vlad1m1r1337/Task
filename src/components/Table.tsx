@@ -24,7 +24,6 @@ export const Table : React.FC = () => {
         {field: 'age', header: 'Age'},
 
     ];
-    console.log('Data', Data);
     return (
         <main className="main">
                 {error && <Message severity="error" text={error} className="error_message"/>}
